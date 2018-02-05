@@ -1,0 +1,13 @@
+Objective:
+
+Design and build an User Management System which takes care of three functionalities:
+
+a. Create a new user
+b. Update an user
+c. Delete an user
+
+Please refer to the wireframes in this folder for a visual cue. There are 3 different views, UMS.png should be the default view (index). In the beginning the user list will be empty. The 'Create New' button should take you to the new user creation view, from there the new user is created and stored in 'users.json' file. Similarly, Update should fetch and update information in the users.json file and Delete should delete the entry from users.json.
+
+All three views have to be loaded using routes and templates. User proper controllers, models and functions. UI and design is not that important. Please submit the finished code in a ZIP file. Contact the HR in case of any doubts.
+
+Good luck!
