@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "paper-true"
+    "name": "angular4-signupform"
   },
   "apps": [
     {
